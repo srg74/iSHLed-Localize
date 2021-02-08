@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  iSHLed
+
+  Created by Sebastian Heinisch on 01.02.21.
+  
+*/
+"WLed-Server" = "WLed-Server";
+"Server-IP" = "Server-IP";
+"Server hinzufügen" = "Server hinzufügen";
+"Current" = "Aktuel: %@";
+"Color" = "Farbe";
+"Colors" = "Farben";
+"Search" = "Suche...";
+"Effect" = "Effekt";
+"Effects" = "Effekte";
+"StartLED" = "Erste LED";
+"StopLED" = "Letzte LED";
+"Grouping" = "Gruppering";
+"Spacing" = "Abstand";
+"Mirror" = "Spiegel Effekt";
+"Reverse" = "Richtung umdrehen";
+"Offline" = "(Offline)";
+"FromTo" = "Von %@ bis %@";
+"Lamps" = "Lampen";
+"Settings" = "Einstellungen";
+"AddServer" = "Server hinzufügen";
+"Servers" = "Server";
+"Caption" = "Name";
+"Save" = "Speichern";
+"ServerEdit" = "Server bearbeiten";
+"Segments" = "Teilstücke";
+"AddSegment" = "Teilstücke hinzufügen";
+"NoServer" = "Bitte für einen Server in den Einstellungen hinzu.";
+"OnlyOneServerDevelopment" = "Während der Entwicklung ist nur ein Server erlaubt!";
+"SaveDataAsPreset" = "Änderungen dauerhaft speichern";
+"WledSettings" = "WLED Einstellungen";
+"BootHelp" = "Bitte setze '24' as preset at boot (Defaults -> Apply preset 24 at boot) in the WLED Settings";
+"CurrentColor" = "Farbauswahl: %@";
+"CurrentEffect" = "Effekt: %@";
+"DeleteConfirmServer" = "Möchtest Du wirklich diesen Server löschen?";
+"Delete" = "Löschen";
+"Preset" = "Gespeicherte Szenen";
+"PresetNew" = "Szene speichern";
+"Color0" = "Farbe 1";
+"Color1" = "Farbe 2";
+"Color2" = "Farbe 3";
+"PresetEdit" = "Bearbeiten";
+"SearchingForWled" = "Suche nach neuen WLED-Servern...";
+"NoServerFound" = "Kein Server gefunden.";
+"ServerFound" =  "Server gefunden! 😎";
+"SelectToAdd" =  "Welchen Server möchtest Du hinzufügen?";
+"ServerAddAll" = "Alle Server hinzufügen";
+"SearchForServerTitle" = "Suchen";
+"ServerAddOverviewTitle" = "Was trifft auf dich zu?";
+"IKnowIP" = "Manuell hinzufügen";
+"IPUnkownAdd" = "Server installiert, in meinem Netzwerk, IP unbekannt";
+"ServerNotConfigured" = "Nicht in meinem Netzwerk";
+"ServerNotInstalled" = "Server noch nicht installiert";
+"JoinNetworkTitle" = "Verbinden";
+"JoinNetwork" = "Bitte verbinde dich zu diesem WLAN: ";
+"JoinPassword" = "Passwort:";
+"OpenSettings" = "Einstellungen öffneen";
+"WaitingForWledServer" = "Warte...";
+"NewServerFound" = "Neuen WLED-Server gefunden!";
+"WifiName" = "Dein WLAN-Name (SSID)";
+"WifiPassword" = "Passwort";
+"ReturnToYourNormalWifi" = "Gehe wieder in dein normales WLAN";
+"WaitingTime" = "Wartezeit:";
+"StartSearchingLocal" = "Finde den neuen Server...";
+"ServerPresets" = "Server Szenen";

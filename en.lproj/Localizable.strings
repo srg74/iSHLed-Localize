@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  iSHLed
+
+  Created by Sebastian Heinisch on 01.02.21.
+  
+*/
+"WLed-Server" = "WLED instance";
+"Server-IP" = "WLED instance IP";
+"Server hinzufügen" = "Add WLED instance";
+"Current" = "Current: %@";
+"Color" = "Color";
+"Colors" = "Colors";
+"Search" = "Search...";
+"Effect" = "Effect";
+"Effects" = "Effects";
+"StartLED" = "Start LED";
+"StopLED" = "Stop LED";
+"Grouping" = "Grouping";
+"Spacing" = "Spacing";
+"Mirror" = "Mirror effect";
+"Reverse" = "Reverse direction";
+"Offline" = "(Offline)";
+"FromTo" = "From %@ to %@";
+"Lamps" = "Lamps";
+"Settings" = "Settings";
+"AddServer" = "Add WLED instance";
+"Servers" = "WLED instances";
+"Caption" = "Name";
+"Save" = "Save";
+"ServerEdit" = "Edit WLED instance";
+"Segments" = "Segments";
+"AddSegment" = "Add Segment";
+"NoServer" = "Please add a WLED instance in the settings.";
+"OnlyOneServerDevelopment" = "During development only one WLED instance is allowed!";
+"SaveDataAsPreset" = "Save changes permanently (even after reboot)";
+"WledSettings" = "WLED Settings";
+"BootHelp" = "Please set '24' as preset at boot (Defaults -> Apply preset 24 at boot) in the WLED Settings";
+"CurrentColor" = "Color Preset: %@";
+"CurrentEffect" = "Effect: %@";
+"DeleteConfirmServer" = "Are you sure you want to delete this WLED instance?";
+"Delete" = "Delete";
+"Preset" = "Preset";
+"PresetNew" = "Add a new preset";
+"Color0" = "Color 1";
+"Color1" = "Color 2";
+"Color2" = "Color 3";
+"PresetEdit" = "Edit";
+"SearchingForWled" = "Searching for new WLED instances...";
+"NoServerFound" = "No new WLED instance was found.";
+"ServerFound" =  "WLED instance found! 😎";
+"SelectToAdd" =  "Please select the WLED instance you want to add:";
+"ServerAddAll" = "Add all new WLED instances";
+"SearchForServerTitle" = "Search";
+"IKnowIP" = "Add manual";
+"ServerNotConfigured" = "Not in my network";
+"ServerNotInstalled" = "Howto install a WLED instance";
+"JoinNetworkTitle" = "Connect your device to the wifi";
+"JoinNetwork" = "Please connect to the wifi: ";
+"JoinPassword" = "Password:";
+"OpenSettings" = "Open settings";
+"WaitingForWledServer" = "Waiting...";
+"NewServerFound" = "New WLED instance found!";
+"WifiName" = "Network name (SSID)";
+"WifiPassword" = "Password";
+"ReturnToYourNormalWifi" = "Please return to your normal wifi";
+"WaitingTime" = "Waiting time:";
+"StartSearchingLocal" = "Find the new WLED instance...";
+"ServerPresets" = "WLED instance presets";
