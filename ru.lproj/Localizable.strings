@@ -67,4 +67,7 @@
 "WaitingTime" = "Время ожидания:";
 "StartSearchingLocal" = "Найти WLED устройство...";
 "ServerPresets" = "Програмы WLED устройства";
+"OnlyOneServer" = "Бесплатная версия поддерживает один экземпляр WLED. Хотите еще?";
+"RestorePurchase" = "Восстановление покупок";
+
 
