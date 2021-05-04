@@ -69,3 +69,5 @@
 "WaitingTime" = "Wartezeit:";
 "StartSearchingLocal" = "Finde den neuen Server...";
 "ServerPresets" = "Server Szenen";
+"OnlyOneServer" = "Die kostenlose Version unterstützt eine WLED Instanz. Du möchtest mehr?";
+"RestorePurchase" = "Kauf wiederherstellen";

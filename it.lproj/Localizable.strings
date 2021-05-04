@@ -1,0 +1,72 @@
+/*
+  Localizable.strings
+  iSHLed
+
+  Created by Sebastian Heinisch on 01.02.21.
+
+*/
+"WLed-Server" = "Dispositivo WLED";
+"Server-IP" = "IP del Dispositivo WLED";
+"Server hinzufügen" = "Aggiungi Dispositivo WLED";
+"Current" = "Attuale: %@";
+"Color" = "Colore";
+"Colors" = "Colori";
+"Search" = "Cerca...";
+"Effect" = "Effetto";
+"Effects" = "Effetti";
+"StartLED" = "Primo LED";
+"StopLED" = "Ultimo LED";
+"Grouping" = "Raggruppamento";
+"Spacing" = "Spaziatura";
+"Mirror" = "Specchia effetto";
+"Reverse" = "Inverti direzione";
+"Offline" = "(Offline)";
+"FromTo" = "Da %@ A %@";
+"Lamps" = "Luci";
+"Settings" = "Impostazioni";
+"AddServer" = "Aggiungi Dispositivo WLED";
+"Servers" = "Dispositivi WLED";
+"Caption" = "Nome";
+"Save" = "Salva";
+"ServerEdit" = "Modifica Dispositivo WLED";
+"Segments" = "Segmenti";
+"AddSegment" = "Aggiungi Segmento";
+"NoServer" = "Per favore, aggiungi un dispositivo WLED nelle impostazioni.";
+"OnlyOneServerDevelopment" = "Durante lo sviluppo è consentito un solo dispositivo WLED!";
+"SaveDataAsPreset" = "Salva le modifiche in maniera permanente (anche dopo il riavvio)";
+"WledSettings" = "Impostazioni WLED";
+"BootHelp" = "Per favore imposta '24' come preset all'avvio (Predefiniti -> Applica preset 24 all'avvio) nelle impostazioni WLED";
+"CurrentColor" = "Colore predefinito: %@";
+"CurrentEffect" = "Effetto: %@";
+"DeleteConfirmServer" = "Sei sicuro di voler eliminare questo dispositivo WLED?";
+"Delete" = "Elimina";
+"Preset" = "Preset";
+"PresetNew" = "Aggiungi nuovo Preset";
+"Color0" = "Colore 1";
+"Color1" = "Colore 2";
+"Color2" = "Colore 3";
+"PresetEdit" = "Modifica";
+"SearchingForWled" = "Cerco nuovi dispositivi WLED...";
+"NoServerFound" = "Nessun dispositivo WLED è stato trovato";
+"ServerFound" =  "Dispositivo WLED trovato! 😎";
+"SelectToAdd" =  "Seleziona il dispositivo WLED che vuoi aggiungere:";
+"ServerAddAll" = "Aggiungi tutti i nuovi dispositivi WLED";
+"SearchForServerTitle" = "Cerca";
+"IKnowIP" = "Aggiungi manualmente";
+"ServerNotConfigured" = "Non sulla mia rete";
+"ServerNotInstalled" = "Come installare un dispositivo WLED";
+"JoinNetworkTitle" = "Collega il tuo dispositivo ad una rete Wi-Fi";
+"JoinNetwork" = "Connessione alla rete Wi-Fi: ";
+"JoinPassword" = "Password:";
+"OpenSettings" = "Apri Impostazioni";
+"WaitingForWledServer" = "Attendi...";
+"NewServerFound" = "Nuovo dispositivo WLED trovato!";
+"WifiName" = "Nome della rete (SSID)";
+"WifiPassword" = "Password";
+"ReturnToYourNormalWifi" = "Torna al Wi-Fi normale";
+"WaitingTime" = "Tempo di attesa:";
+"StartSearchingLocal" = "Trova il nuovo dispositivo WLED";
+"ServerPresets" = "Preset del dispositivo WLED";
+"OnlyOneServer" = "La versione gratuita supporta un solo dispositivo WLED. Vuoi aggiungerne altri?";
+"RestorePurchase" = "Ripristina acquisti";
+ 
